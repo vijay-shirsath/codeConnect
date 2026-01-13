@@ -8,12 +8,12 @@ const Footer = () => {
           {/* Logo and Tagline Section */}
           <div className="w-full md:w-1/3 mb-6 md:mb-0 flex flex-col items-center md:items-start">
             <img
-              src="/logo.png" // Replace with your logo path
+              src="/Atal Seva Setu Kendra logo.png" // Replace with your logo path
               alt="CodeConnect Logo"
               className="w-16 h-16 mb-3"
             />
             <h3 className="text-xl font-extrabold mb-2 text-center md:text-left">
-              Code<span className="text-yellow-400">Connect</span>
+              AtalSeva<span className="text-yellow-400">SetuKendra</span>
             </h3>
             <p className="text-sm text-center md:text-left">
               Empowering businesses with innovative solutions.
@@ -59,7 +59,7 @@ const Footer = () => {
         {/* Footer Bottom Section */}
         <div className="border-t border-white mt-6 pt-4 text-center">
           <p className="text-sm text-gray-200">
-            &copy; {new Date().getFullYear()} CodeConnect Technologies Pvt. Ltd. | All rights reserved.
+            &copy; {new Date().getFullYear()} Atal Seva Setu Kendra | All rights reserved.
           </p>
         </div>
       </div>

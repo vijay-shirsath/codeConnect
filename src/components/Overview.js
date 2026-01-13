@@ -28,7 +28,7 @@ export default function Overview() {
             {/* OUR Inspiration */}
             <div className="flex flex-col md:flex-row items-start bg-white shadow-lg rounded-lg p-6 gap-6">
               <img
-                src="/inspiration-img.svg"
+                src="/inspiration.svg"
                 alt="Inspiration"
                 className="w-24 h-24"
               />
@@ -43,7 +43,7 @@ export default function Overview() {
             {/* OUR Mission */}
             <div className="flex flex-col md:flex-row items-start bg-white shadow-lg rounded-lg p-6 gap-6">
               <img
-                src="/mission-img.svg"
+                src="/mission.svg"
                 alt="Mission"
                 className="w-24 h-24"
               />
@@ -58,7 +58,7 @@ export default function Overview() {
             {/* OUR Vision */}
             <div className="flex flex-col md:flex-row items-start bg-white shadow-lg rounded-lg p-6 gap-6">
               <img
-                src="/vision-img.svg"
+                src="/vision.svg"
                 alt="Vision"
                 className="w-24 h-24"
               />

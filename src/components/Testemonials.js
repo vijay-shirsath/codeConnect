@@ -3,30 +3,22 @@ import { motion } from "framer-motion";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const teamMembers = [
-  {
+ {
+    name: "Ajay Shirsath",
+    position: "Founder and CEO",
+    image: "/ajayPhoto.jpeg",
+    bio: "Founder and CEO of Atal Seva Setu Kendra, a citizen service initiative dedicated to bridging the gap between government services and the public. A Bachelor of Arts graduate, he combines strong administrative understanding with grassroots experience to deliver efficient, transparent, and people-centric services. Under his leadership, the Kendra empowers citizens through digital access, government scheme facilitation, and essential public services, contributing to inclusive development at the local level.",
+    company: "Atal Seva Setu Kendra",
+    location: "Shirpur, India"
+  },
+   {
     name: "Vijay Shirsath",
-    position: "CEO, Web & Mobile Developer, CSC Operator",
+    position: "CTO, Web & Mobile Developer, CSC Operator",
     image: "/panPhoto.jpg",
     bio: "Expert in web and mobile development, CSC operations, and cybersecurity. Graduate from R.C. Patel Institute of Technology, Shirpur, with knowledge of MERN stack, React Native, and penetration testing tools like Nessus, Nmap, Wireshark, Metasploit, Owasp and Burp Suite.",
-    company: "CodeConnect Technologies Private Limited",
+    company: "Atal Seva Setu Kendra",
     location: "Shirpur, India"
   },
-  {
-    name: "Shrawan Shirsath",
-    position: "CCTV Installer & Network Technician",
-    image: "/shrawanPhoto.jpg",
-    bio: "ITI graduate with expertise in CCTV installation, maintenance, and networking solutions. Skilled in troubleshooting network issues, configuring security systems, and providing reliable IT support.",
-    company: "CodeConnect Technologies PVT. LTD",
-    location: "Shirpur, India"
-  },
-  {
-    name: "Vinod Gavhane",
-    position: "CTO, HR",
-    image: "https://via.placeholder.com/250",
-    bio: "MBA graduate with expertise in marketing, business strategy, and growth solutions. Specializes in financial planning, organizational leadership, and strategic business expansion.",
-    company: "CodeConnect Technologies PVT. LTD",
-    location: "Shirpur, India"
-  }
 ];
 
 export default function OurTeam() {

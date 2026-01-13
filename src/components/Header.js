@@ -46,12 +46,12 @@ const Header = () => {
         {/* Logo Section */}
         <div className="flex items-center">
           <img
-            src="/logo.png" // Replace with your logo path
+            src="/Atal Seva Setu Kendra logo.png" // Replace with your logo path
             alt="CodeConnect Logo"
             className="w-16 h-16 mr-4 rounded-full transition-transform duration-300 ease-in-out transform hover:scale-110"
           />
           <h1 className="text-2xl font-extrabold tracking-wide">
-            Code<span className="text-yellow-300">Connect</span>
+            AtalSeva<span className="text-yellow-300">SetuKendra</span>
           </h1>
         </div>
 

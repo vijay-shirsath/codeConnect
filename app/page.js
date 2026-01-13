@@ -12,11 +12,10 @@ export default function Home() {
         {/* Text Section */}
         <div className="w-full md:w-1/2 flex flex-col justify-center text-center md:text-left">
           <h1 className="text-gray-800 text-4xl md:text-6xl font-bold mb-4">
-            Welcome to <span className="text-yellow-500">CodeConnect</span>
+            Welcome to <span className="text-yellow-500">Atal Seva Setu Kendra</span>
           </h1>
           <p className="text-gray-700 text-lg md:text-xl max-w-md mx-auto md:mx-0">
-            Empowering businesses with innovative solutions to thrive in the
-            digital age..
+            A trusted citizen service center providing government and digital services to the people — सुलभ सेवा, विश्वासाचे केंद्र.
           </p>
         </div>
 
