@@ -11,7 +11,7 @@ function CSCBanner() {
       </p>
       <div className="w-full max-w-6xl rounded-xl overflow-hidden shadow-2xl border border-gray-300 bg-white">
         <Image
-          src="/AtalSetu.png" // Ensure the image is in the public folder
+          src="/AtalSetuGharpoch.png" // Ensure the image is in the public folder
           alt="CSC Services Poster"
           width={1200} // Increased width
           height={600} // Adjusted height

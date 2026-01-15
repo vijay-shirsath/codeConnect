@@ -10,7 +10,9 @@ export default function Overview() {
           Overview
         </h1>
         <p className="text-gray-600 text-lg md:text-xl mt-4 max-w-3xl mx-auto">
-          Discover who we are and what we strive to achieve at CodeConnect Technologies.
+          Atal Seva Setu Kendra is a trusted service center dedicated to delivering
+          government, digital, and IT solutions that simplify everyday needs for
+          citizens and businesses.
         </p>
       </div>
 
@@ -19,7 +21,7 @@ export default function Overview() {
         {/* Text Section */}
         <div className="w-full space-y-12">
          <p className="text-gray-600 text-lg md:text-xl leading-relaxed">
-  At CodeConnect, we provide IT and customer-focused services, including efficient CSC operations, job application assistance, and innovative web and mobile development solutions. Our commitment is to deliver reliable, accessible services that empower businesses and communities.
+  At Atal Seva Setu Kendra, we provide IT and customer-focused services, including efficient CSC operations, job application assistance, and innovative web and mobile development solutions. Our commitment is to deliver reliable, accessible services that empower businesses and communities.
 </p>
 
 
@@ -35,7 +37,7 @@ export default function Overview() {
               <div>
                 <h2 className="text-gray-800 text-2xl font-bold mb-3">OUR Inspiration</h2>
                 <p className="text-gray-600 text-lg">
-                  At CodeConnect Technologies, our inspiration stems from the trust and encouragement of our customers, who rely on us for efficient, innovative, and reliable services. We are motivated by our dedicated team, whose relentless efforts begin with understanding client requirements and extend to delivering solutions on time, surpassing expectations.
+                  At Atal Seva Setu Kendra, our inspiration stems from the trust and encouragement of our customers, who rely on us for efficient, innovative, and reliable services. We are motivated by our dedicated team, whose relentless efforts begin with understanding client requirements and extend to delivering solutions on time, surpassing expectations.
                 </p>
               </div>
             </div>
